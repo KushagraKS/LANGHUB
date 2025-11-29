@@ -13,6 +13,7 @@
   "keywords": ["language", "exchange", "chat", "real-time"],
   "author": "",
   "license": "MIT",
+
   "devDependencies": {
     "concurrently": "^8.2.2"
   }

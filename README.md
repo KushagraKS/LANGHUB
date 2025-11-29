@@ -11,6 +11,7 @@ A full-stack language exchange platform connecting learners with native speakers
 - **Learning Resources**: Curated resources for language learning
 - **Responsive Design**: Modern UI built with React and TailwindCSS
 
+
 ## Tech Stack
 
 ### Backend
